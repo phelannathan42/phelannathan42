@@ -1,5 +1,5 @@
 
-![banner](https://i.imgur.com/6mbXVX8.png)
+
 <h1 align="center">Hello, world! 👋 I'm Nathan</h1>
 <h3 align="center">Cloud & Cybersecurity Explorer | IT Generalist | Automation Enthusiast</h3>
 <br />
