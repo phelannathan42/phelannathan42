@@ -21,9 +21,9 @@ I invite you to explore my GitHub portfolio (coming soon) to see how I approach 
 <br />
 
 - [Creating a Live SOC / Honey Net in Azure](https://github.com/phelannathan42/azure-honeynet-soc)
-  - [Setting Up Vulnerable VMs in Azure](https://github.com/phelannathan42/azure-honeypot-setup)
-  - [Cloud SOC Project Resources](https://github.com/phelannathan42/Cloud-SOC-Project-Resources)
-  - [Active Directory VM Lab](https://github.com/phelannathan42/ActiveDirectoryLab)
+- [Setting Up Vulnerable VMs in Azure](https://github.com/phelannathan42/azure-honeypot-setup)
+- [Cloud SOC Project Resources](https://github.com/phelannathan42/Cloud-SOC-Project-Resources)
+- [Active Directory VM Lab](https://github.com/phelannathan42/ActiveDirectoryLab)
 
 ---
 
