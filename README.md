@@ -44,6 +44,8 @@ I invite you to explore my GitHub portfolio (coming soon) to see how I approach 
 - 📚 [Download Librarian](https://github.com/phelannathan42/Download-Librarian) — Python script to batch-download files from URLs.
 - 🆕 [Download Librarian NEW](https://github.com/phelannathan42/Download-Librarian-NEW) — Refactored version of the original Download Librarian project.
 
+---
+
 <br />
 
 ## 🧪 Quality Assurance Projects
