@@ -46,6 +46,10 @@ I invite you to explore my GitHub portfolio (coming soon) to see how I approach 
 
 <br />
 
+## 🧪 Quality Assurance Projects
+
+- [QA Portfolio Projects](https://github.com/phelannathan42/portfolio/tree/main/qa-projects) — Hands-on testing projects demonstrating manual QA workflows, bug reporting, and automation practice.
+
 ---
 
 <br />
