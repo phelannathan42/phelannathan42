@@ -8,7 +8,7 @@ Thank you for visiting my GitHub! This repository is meant to showcase my journe
 
 Over the years, I’ve developed a strong foundation in IT by working hands-on with a wide range of technologies—from troubleshooting and systems management to cloud infrastructure and automation. My experience has helped me build a versatile skill set and a deep interest in securing digital environments. I'm continuously learning and evolving, with a focus on using tech creatively to solve real-world problems.
 
-I invite you to explore my GitHub portfolio (coming soon) to see how I approach technical challenges, secure systems, and automate infrastructure. I look forward to sharing projects that reflect my attention to detail, curiosity, and passion for cybersecurity and the cloud.
+I invite you to explore my GitHub portfolio to see how I approach technical challenges, secure systems, and automate infrastructure. I look forward to sharing projects that reflect my attention to detail, curiosity, and passion for cybersecurity and the cloud.
 
 ---
 
