@@ -17,9 +17,9 @@ I invite you to explore my GitHub portfolio (coming soon) to see how I approach 
 
 <h2>🖥️ Projects :</h2>
 
-<h2>👨🏻‍💻 🌎 🔐 Cyber Security / Cloud / IT Projects 👨🏻‍💻 🌎 🔐</h2>
+<h2>👨🏻‍💻 🌎 🔐 Cyber Security Projects 👨🏻‍💻 🌎 🔐</h2>
 <br />
-
+- [BlueTeam Toolkit](https://github.com/phelannathan42/BlueTeam-Toolkit) — Tools and scripts for log analysis, incident response, and threat hunting.
 - [Creating a Live SOC / Honey Net in Azure](https://github.com/phelannathan42/azure-honeynet-soc)
 - [Setting Up Vulnerable VMs in Azure](https://github.com/phelannathan42/azure-honeypot-setup)
 - [Cloud SOC Project Resources](https://github.com/phelannathan42/Cloud-SOC-Project-Resources)
@@ -29,8 +29,9 @@ I invite you to explore my GitHub portfolio (coming soon) to see how I approach 
 
 <br />
 
-## Ansible / Automation Projects
-<!-- Project list to be updated -->
+## Cloud Projects
+🔧 [AWS Forge Minecraft Server](https://github.com/phelannathan42/aws-forge-minecraft-server) — Minecraft server deployment using AWS services.
+- 🖼️ [AWS Image Pipeline](https://github.com/phelannathan42/AWS-Image-Pipeline) — Automated AMI creation using AWS Image Builder.
 
 <br />
 
@@ -38,8 +39,9 @@ I invite you to explore my GitHub portfolio (coming soon) to see how I approach 
 
 <br />
 
-## SQL Projects
-<!-- Project list to be updated -->
+## Python Automation Projects
+- 📚 [Download Librarian](https://github.com/phelannathan42/Download-Librarian) — Python script to batch-download files from URLs.
+- 🆕 [Download Librarian NEW](https://github.com/phelannathan42/Download-Librarian-NEW) — Refactored version of the original Download Librarian project.
 
 <br />
 
