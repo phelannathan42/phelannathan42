@@ -19,6 +19,7 @@ I invite you to explore my GitHub portfolio to see how I approach technical chal
 
 ## 👨🏻‍💻 🌎 🔐 Cyber Security Projects
 
+- [John the Threadripper](https://github.com/phelannathan42/john-the-threadripper) — EPYC-powered ROCm GPU password cracking lab with Hashcat & John the Ripper.
 - [BlueTeam Toolkit](https://github.com/phelannathan42/BlueTeam-Toolkit) — Tools for log analysis and blue team operations.
 - [Creating a Live SOC / Honey Net in Azure](https://github.com/phelannathan42/azure-honeynet-soc)
 - [Setting Up Vulnerable VMs in Azure](https://github.com/phelannathan42/azure-honeypot-setup)
