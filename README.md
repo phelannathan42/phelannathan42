@@ -17,6 +17,19 @@ I invite you to explore my GitHub portfolio to see how I approach technical chal
 
 <h2>🖥️ Projects :</h2>
 
+---
+
+## 📚 Certifications & Education
+
+AWS Cloud Support Associate • Google Cybersecurity • CCNA • Machine Learning @ Stanford  
+🎓 Studying Cybersecurity at Calbright & Coastline College
+
+[![View Certifications](https://img.shields.io/badge/View%20Certifications-Portfolio-blue?style=for-the-badge&logo=github)](https://github.com/phelannathan42/certifications-portfolio)
+
+
+---
+
+
 ## 👨🏻‍💻 🌎 🔐 Cyber Security Projects
 
 - [John the Threadripper](https://github.com/phelannathan42/john-the-threadripper) — EPYC-powered ROCm GPU password cracking lab with Hashcat & John the Ripper.
