@@ -15,8 +15,6 @@ I invite you to explore my GitHub portfolio to see how I approach technical chal
 <br />
 <br />
 
-<h2>🖥️ Projects :</h2>
-
 ---
 
 ## 📚 Certifications & Education
@@ -28,6 +26,9 @@ AWS Cloud Support Associate • Google Cybersecurity • CCNA • Machine Learni
 
 
 ---
+
+<h2>🖥️ Projects :</h2>
+
 
 
 ## 👨🏻‍💻 🌎 🔐 Cyber Security Projects
